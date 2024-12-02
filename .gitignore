@@ -52,10 +52,6 @@ temp/
 
 # Package files
 *.tgz
-package-lock.json
-yarn.lock
-# Keep pnpm-lock.yaml for consistency
-# pnpm-lock.yaml
 
 # Debug
 .debug/
